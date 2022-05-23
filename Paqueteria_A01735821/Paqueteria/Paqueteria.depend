@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1653263496 source:c:\users\6qv46la\onedrive\documentos\visual studio 2022\paqueteria\src\sobre.cpp
+	"Sobre.h"
+	"Envio.h"
+
+1653263435 c:\users\6qv46la\onedrive\documentos\visual studio 2022\paqueteria\include\sobre.h
+	"Envio.h"
+	<stdio.h>
+	<string>
+
+1653261191 c:\users\6qv46la\onedrive\documentos\visual studio 2022\paqueteria\include\envio.h
+	<stdio.h>
+	<string>
+
+1653261221 source:c:\users\6qv46la\onedrive\documentos\visual studio 2022\paqueteria\src\envio.cpp
+	"Envio.h"
+	<string>
+
+1653261514 source:c:\users\6qv46la\onedrive\documentos\visual studio 2022\paqueteria\src\paquete.cpp
+	"Paquete.h"
+	"Envio.h"
+
+1653261486 c:\users\6qv46la\onedrive\documentos\visual studio 2022\paqueteria\include\paquete.h
+	"Envio.h"
+	<stdio.h>
+	<string>
+
+1653263310 source:c:\users\6qv46la\onedrive\documentos\visual studio 2022\paqueteria\main.cpp
+	<iostream>
+	"Envio.h"
+	"Paquete.h"
+	"Sobre.h"
+
